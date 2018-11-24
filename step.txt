@@ -1,0 +1,8 @@
+stupid
+mkdir
+cd 
+git init
+vim file
+git add
+git commit -m "comment"
+git remote 
